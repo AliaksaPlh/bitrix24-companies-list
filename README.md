@@ -111,7 +111,7 @@ http://localhost:3010/health
 {
   "success": true,
   "count": 10000,
-  "companies": [arr of companies]
+  "companies": [...]
 }
 ```
 
